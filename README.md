@@ -8,7 +8,8 @@ Task--1
 
 2.Git status command:==It displays the state of the working directory and staging area.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011008-6f0ecdd2-c31b-4125-95df-1e5c3d29d59f.png)
+
 
 3.Git config command:---This command is used to set the git username.
 

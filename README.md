@@ -13,15 +13,18 @@ Task--1
 
 3.Git config command:---This command is used to set the git username.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011148-29c180e8-896c-4eb4-9674-aefdad0f3502.png)
+
 
 4.Git add command:==This command adds new changes in working directory to git staging area.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011204-294c427e-d801-429b-84be-cd581c46a78b.png)
+
 
 5.Git Status command:It displays the state of the working directory and staging area.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011299-ae29cb29-7c6f-4f24-b8b6-968ed258aa35.png)
+
 
 6.Git version:==It displays the version of git currently being used.
 

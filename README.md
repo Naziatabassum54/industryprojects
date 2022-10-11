@@ -28,23 +28,28 @@ Task--1
 
 6.Git version:==It displays the version of git currently being used.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011413-a8054355-ae04-4097-bb91-153e725d3adb.png)
+
 
 7.Git Commit:==It creates a snapshot of projects currently staged changes.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011464-23456faa-9300-46bc-b498-e464944b0f72.png)
+
 
 8.Git branch command:---1.It provides the information of branches available in repository.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011518-23105c30-9dd1-4ae4-80ae-2e0865aca22f.png)
+
 
 9.Git checkout :== This command switches to specified branch
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011578-87c421eb-456c-4a17-87e0-87b2a1ec2eb5.png)
+
 
 10.Git remote command:---This command create,view and delete connections to other repositories.
 
-image
+![image](https://user-images.githubusercontent.com/114386080/195011655-3f30c08d-006a-433d-90f0-3d6b511c2161.png)
+
 
 11.Git push command:===This command is used to upload local repository content to a remote repository
 
